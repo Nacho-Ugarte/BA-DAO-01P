@@ -1,0 +1,25 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /*fondo de oficinas */
+  background-image: url(../img/oficinas.png);
+  background-image: url(../img/oficinas.png);
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+.button {
+  color: #7449bb;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: 500;
+}
