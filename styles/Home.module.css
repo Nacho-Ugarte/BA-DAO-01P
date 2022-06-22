@@ -13,12 +13,12 @@
 }
 .container > h1 {
   font-size: 3rem;
-  color: rgba(0, 0, 0, 0.345);
+  color: rgb(0, 0, 0);
   font-weight: bold;
 }
 .button {
-  color: #7449bb;
-  background-color: rgb(255, 255, 255);
+  color: #000000;
+  background-color: rgb(255, 230, 0);
   border: none;
   border-radius: 5px;
   padding: 10px;
