@@ -56,7 +56,7 @@ export default function Home() {
         const proposals = await vote.getAll();
         setProposals(proposals);
       } catch (error) {
-        console.error("no pudo obtener propuestas", error);
+        console.error("No se pudo obtener propuestas", error);
       }
     };
     getAllProposals();
